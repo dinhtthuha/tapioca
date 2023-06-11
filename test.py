@@ -1,22 +1,4 @@
 
-⬇ Time series annotations
-Give more context to your time series using annotations!
-
-Choose a ticker (⬇💬👇ℹ️ ...)
-
-⬇
-Horizontal offset
-
--30
-30
-Vertical offset
-
--30
-30
-
-Code
-See more in our public GitHub repository
-
 import altair as alt
 import pandas as pd
 import streamlit as st
